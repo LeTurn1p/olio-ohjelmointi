@@ -1,0 +1,7 @@
+C:/Users/tuoma/OneDrive/Desktop/olio-ohjelmointi/EXTRA-tehtavat/extratehtava2/build/CMakeFiles/extratehtava2.dir
+C:/Users/tuoma/OneDrive/Desktop/olio-ohjelmointi/EXTRA-tehtavat/extratehtava2/build/CMakeFiles/edit_cache.dir
+C:/Users/tuoma/OneDrive/Desktop/olio-ohjelmointi/EXTRA-tehtavat/extratehtava2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/tuoma/OneDrive/Desktop/olio-ohjelmointi/EXTRA-tehtavat/extratehtava2/build/CMakeFiles/list_install_components.dir
+C:/Users/tuoma/OneDrive/Desktop/olio-ohjelmointi/EXTRA-tehtavat/extratehtava2/build/CMakeFiles/install.dir
+C:/Users/tuoma/OneDrive/Desktop/olio-ohjelmointi/EXTRA-tehtavat/extratehtava2/build/CMakeFiles/install/local.dir
+C:/Users/tuoma/OneDrive/Desktop/olio-ohjelmointi/EXTRA-tehtavat/extratehtava2/build/CMakeFiles/install/strip.dir
