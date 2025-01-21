@@ -20,7 +20,7 @@ public:
 
     bool nosta(double maara) {
         if (maara > saldo) {
-            cout << "Virhe: Saldo ei riitä nostoon!" << endl;
+            cout << "Virhe: Saldo ei riita nostoon!" << endl;
             return false;
         } else {
             saldo -= maara;
@@ -68,7 +68,7 @@ int main() {
         cout << "Tilinumero: ";
         cin >> tilinumero;
         cout << "Tilinomistaja: ";
-        cin.ignore();  // Tyhjentää syötteen
+        cin.ignore();  // Tyhjentaa syotteen
         getline(cin, tilinomistaja);
         cout << "Alkusaldo: ";
         cin >> saldo;
@@ -114,11 +114,11 @@ int main() {
         } else if (valinta == 3) {
             int lahettajaIdx, vastaanottajaIdx;
             double maara;
-            cout << "Syota siirron lähettävän tilin numero (1-" << tiliLkm << "): ";
+            cout << "Syota siirron lahettavan tilin numero (1-" << tiliLkm << "): ";
             cin >> lahettajaIdx;
             cout << "Syota siirron vastaanottavan tilin numero (1-" << tiliLkm << "): ";
             cin >> vastaanottajaIdx;
-            cout << "Syota siirrettävä summa: ";
+            cout << "Syota siirrettava summa: ";
             cin >> maara;
             if (lahettajaIdx >= 1 && lahettajaIdx <= tiliLkm &&
                 vastaanottajaIdx >= 1 && vastaanottajaIdx <= tiliLkm) {
